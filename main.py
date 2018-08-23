@@ -40,7 +40,7 @@ n_visible      = 2*note_range*num_timesteps #This is the size of the visible lay
 n_hidden       = 50 #This is the size of the hidden layer
 
 num_epochs = 200 #The number of training epochs that we are going to run. For each epoch we go through the entire data set.
-batch_size = 54 #The number of training examples that we are going to send through the RBM at a time. 
+batch_size = 100 #The number of training examples that we are going to send through the RBM at a time. 
 lr         = tf.constant(0.005, tf.float32) #The learning rate of our model
 
 ### Variables:
