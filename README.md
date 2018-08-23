@@ -1,2 +1,2 @@
-# tensorflow-music-generator
-tensorflow-music-generator
+# tensorflow-midi-generator
+tensorflow-midi-generator
